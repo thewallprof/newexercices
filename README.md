@@ -23,6 +23,7 @@ Escreva um loop que realiza 7 chamadas do comando console.log e exibe o seguinte
 #####
 ######
 #######
+
 Talvez seja interessante saber que é possível descobrir o tamanha de uma string
 por meio do método .length:
 

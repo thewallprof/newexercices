@@ -1,0 +1,2 @@
+# newexercices
+Exercícios JavaScript
